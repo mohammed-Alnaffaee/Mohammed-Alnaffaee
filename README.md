@@ -1,10 +1,12 @@
-# Hi! 👋
+# Hi, I'm Mohammed! 👋
 
 ### Computer Science Student | Data Analytics & Business Intelligence
 
-I'm a Computer Science student in Saudi Arabia, working toward **Data Analyst, Business Intelligence, and Business Analytics Co-op** opportunities.
+I'm a final-year Computer Science student in Saudi Arabia. I've built web applications and explored machine learning, but **data analytics is where I want to grow professionally**.
 
-I enjoy turning messy data into clear, defensible insights — starting with the **business question**, checking data quality, choosing an appropriate method, and explaining what the results mean for a decision.
+What interests me most is understanding *why* something is happening — not just displaying numbers. In my projects, I work on defining the problem, checking the data, and explaining both the findings and their limitations.
+
+I'm looking for a **Data Analyst or Business Intelligence Co-op** opportunity where I can contribute to real projects, learn from a team, and keep developing my skills.
 
 ---
 
@@ -51,5 +53,5 @@ I value reproducible results, explicit assumptions, and honest reporting of limi
 
 ## 📫 Connect
 
-[**LinkedIn**](https://www.linkedin.com/in/bader-alnaffaee-65b72135a/) · [**GitHub**](https://github.com/mohammed-Alnaffaee)
+[**LinkedIn**](https://www.linkedin.com/in/mohammed-al-naffaee-5071aa304) · [**GitHub**](https://github.com/mohammed-Alnaffaee)
 
