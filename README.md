@@ -12,7 +12,7 @@ I'm looking for a **Data Analyst or Business Intelligence Co-op** opportunity wh
 
 ## 📊 Featured Projects
 
-### 01 · [Help Desk Ticket Performance Analysis](https://github.com/mohammed-Alnaffaee/help-desk-ticket-performance-analysis/tree/portfolio-structure-review)
+### 01 · [Help Desk Ticket Performance Analysis](https://github.com/mohammed-Alnaffaee/help-desk-ticket-performance-analysis)
 
 **Python · PostgreSQL · SQL · Statistics · Power BI**
 
@@ -20,9 +20,9 @@ Analyzed **19,714 historical help-desk tickets** and reconstructed their status 
 
 **Key finding:** **8,662** confirmed breaches among **19,605** evaluable tickets — a **44.18% conditional breach rate** under the project's documented measurement rules. *This is not an official contractual SLA.*
 
-[**Explore the case study →**](https://github.com/mohammed-Alnaffaee/help-desk-ticket-performance-analysis/tree/portfolio-structure-review)
+[**Explore the case study →**](https://github.com/mohammed-Alnaffaee/help-desk-ticket-performance-analysis)
 
-[![Help Desk Power BI executive overview](https://raw.githubusercontent.com/mohammed-Alnaffaee/help-desk-ticket-performance-analysis/portfolio-structure-review/docs/images/dashboard_executive_overview.png)](https://github.com/mohammed-Alnaffaee/help-desk-ticket-performance-analysis/tree/portfolio-structure-review)
+[![Help Desk Power BI executive overview](https://raw.githubusercontent.com/mohammed-Alnaffaee/help-desk-ticket-performance-analysis/main/docs/images/dashboard_executive_overview.png)](https://github.com/mohammed-Alnaffaee/help-desk-ticket-performance-analysis)
 
 ### 02 · [Student Dropout Prediction & Academic Success Support System](https://github.com/mohammed-Alnaffaee/student-dropout-prediction)
 
